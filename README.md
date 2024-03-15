@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**Zeph073/Zeph073** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Current Focus
+I'm currently immersed in enhancing my full-stack web development skills by working on a dynamic e-commerce platform.
 
-Here are some ideas to get you started:
+## 🌱 Learning Journey
+I'm also diving into advanced concepts in Android app development, particularly exploring Kotlin coroutines and modern design patterns.p
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👯 Collaboration Interests
+I'm keen to collaborate on open-source web projects that prioritize improving user experiences and accessibility.
+
+## 🤔 Seeking Assistance
+I'm looking for assistance with optimizing network security protocols and staying updated on the latest advancements in network engineering.
+
+## 💬 Ask Me Anything
+Feel free to reach out to me for anything related to web development, Android app development, or networking - I'm always happy to share my knowledge and experiences.
+
+## 📫 How to Reach Me
+You can contact me via email at zephzephan073@gmail.com
+
+## ⚡ Fun Fact
+I enjoy experimenting with new coding languages and have a knack for creating unique and engaging user interfaces.
+
+## About Me
+I thrive in creating seamless user experiences and building robust systems. My skills extend from front-end development to server-side scripting and mobile application development.
